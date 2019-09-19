@@ -133,7 +133,10 @@ button:focus {
   max-width: 720px;
   margin: 0px auto 75px;
 }
+.blog_text_inner{
+  border-top: -200;
 
+}
 .main_title h2 {
   font-weight: bold;
   font-family: "Inconsolata", monospace;
@@ -1808,7 +1811,9 @@ button:focus {
   font-weight: 300;
   color: #999999;
 }
-
+div.card{
+ margin-right: 50px;
+}
 .reservation_form .form-group input.placeholder {
   font-size: 13px;
   font-family: "Inconsolata", monospace;
